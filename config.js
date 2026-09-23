@@ -1,3 +1,3 @@
 {
-  "base_url": "http://http://node1683.edrik-otax.clouderz.my.id:2000"
+  "base_url": "http://pterodactyl-free-node-2.hostkita.help:20413"
 }
