@@ -1,3 +1,3 @@
 {
-  "base_url": "http://pterodactyl-free-node-2.hostkita.help:20413"
+  "base_url": "http://panelryonimekpanel8148.ymzpterodactyl.biz.id:2001"
 }
